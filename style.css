@@ -1,0 +1,182 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    width: 1000px;
+    display: flex;
+    margin-top: 0;
+    margin-left: 10%;
+    margin-right: 15%;
+    box-sizing: border-box;
+    background-color: #3399FF;
+    color: white;
+}
+header div {
+    height: 150px;
+}
+.gmbrkiri {
+    flex: 0.75 ;
+    padding: 25px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+.gmbrkiri img {
+    box-sizing: border-box;
+    width: 150px;
+}
+
+.tengah {
+    flex: 2;    
+    text-align: center;
+    box-sizing: border-box;
+    display: block;
+    padding: 20px;
+}
+
+.garisbawah {
+    box-sizing: border-box;
+    display: block;
+    border-bottom: 3px solid white;
+    width: 100px;
+    margin-left: 190px;
+}
+
+h5 {
+    margin-top: 5px;
+}
+
+.gmbrkanan {
+    flex: 0.75 ;
+    padding: 25px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    
+}
+
+.gmbrkanan img {
+    box-sizing: border-box;
+    width: 150px;
+}
+
+main {
+    margin-left: 10%;
+    margin-right: 15%;
+
+}
+
+h3 {
+    color: #3399FF;
+    display: inline;
+}
+
+.container div {
+    flex: 1;
+}
+ 
+.container {
+    width: 1000px;
+    height: 250px;
+    justify-content: space-evenly;
+    box-sizing: border-box  ;
+    display: flex;
+}
+
+
+
+.teksatas {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.garistengah {
+    width:50px;
+    float: left;
+    background-color: #3399FF;
+    height: 1px;
+    margin-left: 350px;
+}
+
+.garistengah1 {
+    width:50px;
+    float: right;
+    background-color: #3399FF;
+    height: 1px;
+    margin-right: 275px;
+}
+
+
+.isi1 {
+    padding: 25px;
+    box-sizing: border-box;
+    display: block;
+    border: solid 1px #CCC; 
+    border-radius: 5px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.40) ;
+    
+}
+
+.isi1 img {
+    box-sizing: border-box;
+    width: 100px;
+    margin-left: 100px;
+}
+
+.isi1 p {
+    color: #3399FF;
+    text-align: center;
+    box-sizing: border-box;
+    margin-block-end: 0;
+}
+
+.teksisi {
+    font-size: 12px;
+    margin-top:5px;
+}
+
+.isi2 {
+    padding: 25px;
+    box-sizing: border-box;
+    display: block;  
+    border: solid 1px #CCC; 
+    border-radius: 5px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.40) ; 
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.isi2 img {
+    box-sizing: border-box;
+    width: 100px;
+    margin-left: 100px;
+}
+
+.isi2 p {
+    color: #3399FF;
+    text-align: center;
+    box-sizing: border-box;
+    margin-block-end: 0;
+}
+
+.isi3 {
+    padding: 25px;
+    box-sizing: border-box;
+    display: block; 
+    border: solid 1px #CCC; 
+    border-radius: 5px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.40) ;
+}
+.isi3 img {
+    box-sizing: border-box;
+    width: 100px;
+    margin-left: 100px;
+}
+
+.isi3 p {
+    color: #3399FF;
+    text-align: center;
+    box-sizing: border-box;
+    margin-block-end: 0;
+}
